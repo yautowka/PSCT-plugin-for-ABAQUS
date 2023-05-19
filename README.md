@@ -1,1 +1,0 @@
-# PSCT-plugin-for-ABAQUS
